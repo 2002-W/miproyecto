@@ -23,7 +23,10 @@ redes{
   text-align: center;
 
 }
-
+redes p{
+  text-align: center;
+  font-size: 38px;
+}
 redes h3{
   text-align: center;
   font-weight: bold;
