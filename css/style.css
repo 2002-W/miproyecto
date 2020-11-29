@@ -1,0 +1,36 @@
+body {
+  background:url(Descarga.jpg);
+  background-size: 100%;
+  font-family: arial;
+  text-align: center;
+}
+
+h1 {
+  font-size: 60px;
+  color: black;
+}
+
+p {
+  font-size: 45px;
+  color: pink;
+  text-align: center;
+}
+h2 {
+  color: pink;
+}
+redes{
+  padding: 40px;
+  text-align: center;
+
+}
+
+redes h3{
+  text-align: center;
+  font-weight: bold;
+}
+
+sociales{
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
